@@ -1,7 +1,6 @@
 # Hello, I'm Muhammad Farooq Iqbal 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfarooqiqbal)
-[![Twitter](https://img.shields.io/badge/Twitter-@mfarooqiqbal-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mfarooqiqbal)
 
 I'm a passionate **Flutter developer** with over **8 years** of experience in mobile app development. I love building beautiful and user-friendly apps. I'm also an enthusiast of clean code, performance optimization, and scalable architecture.
 
