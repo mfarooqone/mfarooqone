@@ -23,15 +23,17 @@ I'm a passionate **Flutter developer** with over **8 years** of experience in mo
 
 Here are some of my notable repositories:
 
-- [**liquid_loader**](https://github.com/mfarooqone/liquid_loader): A Flutter package that creates animated liquid effects inside custom-shaped bottles.
-- [**Foldious**](https://github.com/mfarooqone/foldious): A cloud storage app with a referral system and unlimited storage.
+- [**liquid_loader**](https://pub.dev/packages/liquid_loader): A Flutter package that creates animated liquid effects inside custom-shaped bottles.
+- [**Foldious**](https://apps.apple.com/us/app/foldious-cloud-storage/id6742392762): A cloud storage app with a referral system and unlimited storage.
 - [**Better Mood**](https://github.com/mfarooqone/better_mood): A mindfulness app to track your mood and mental health.
+- [**Bamrec Organization**](https://apps.apple.com/pk/app/bamrec-organization/id6452499299): Bamrec Organization App empowers organizers and coaches.
+- [**Mux Tech**](https://apps.apple.com/pk/app/mux-tech/id1476862500): GPS Vehicle Tracking App.
 
 ## 📫 How to Reach Me
 
 - Email: [mfarooqiqbal143@gmail.com](mailto:mfarooqiqbal143@gmail.com)
 - LinkedIn: [Muhammad Farooq Iqbal](https://www.linkedin.com/in/mfarooqiqbal)
-- Twitter: [@mfarooqiqbal](https://twitter.com/mfarooqiqbal)
+- Stack Overflow: [Muhammad Farooq Iqbal](https://stackoverflow.com/users/20288806/muhammad-farooq-iqbal)
 
 ---
 
